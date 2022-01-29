@@ -25,12 +25,14 @@ A short overview of all my repositores:
 | [ubidump](https://github.com/nlitsme/ubidump)  | Tool for viewing and extracting files from an UBIFS image |
 | [SquashFSDumper](https://github.com/nlitsme/SquashFSDumper)  | tool for listing and extracting files from SQUASHFS images |
 | [encrypteddmg](https://github.com/nlitsme/encrypteddmg)  | Tool for analyzing and decrypting apple encrypted disk images |
+| [cronodump](https://github.com/alephdata/cronodump) | A Cronos database converter |
 
 # c++
 | repo | desc |
 | --- | --- |
 | [cpputils](https://github.com/nlitsme/cpputils)  | various c++ utility classes |
 | [hexdumper](https://github.com/nlitsme/hexdumper)  | hexdumper tool i use for just about anything. |
+| [legacy-itsutils-library](https://github.com/nlitsme/legacy-itsutils-library)  | Part of the old itsutils library |
 
 # commandline toolbox
 | repo | desc |
@@ -67,6 +69,7 @@ A short overview of all my repositores:
 | [youtube_tool](https://github.com/nlitsme/youtube_tool)  | Tool for extracting comments or subtitles from youtube video's |
 | [wikiexport](https://github.com/nlitsme/wikiexport)  | Tool for downloading the contents of a mediawiki site |
 | [pleskfilemanager](https://github.com/nlitsme/pleskfilemanager)  | python script for managing files on a plesk server from the commandline |
+| [magister-tool](https://github.com/nlitsme/magister-tool)  | Tool for getting information from the magister school server |
 
 
 # ida
