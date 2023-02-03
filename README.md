@@ -3,6 +3,22 @@ This my my profile README.
 A short overview of all my repositores:
 
 
+# Risc-V / Titan-M2
+
+| repo | desc |
+| --- | --- |
+| [riscv-isa-sim-titanM2](https://github.com/nlitsme/riscv-isa-sim-titanM2)  | Patches such that the SPIKE Risc-V simulator can run the Titan-M2 firmware.
+
+
+# whatsapp
+
+| repo | desc |
+| --- | --- |
+| [whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto)  | Changes in the whatsapp protocol as extracted from apk files |
+| [whatsapptools](https://github.com/nlitsme/whatsapptools)  | A collection of python scripts i use for managing whatsapp chats from the commandline. |
+| [whatsmeow](https://github.com/nlitsme/whatsmeow)  | My changes to the whatsmeow project |
+
+
 # bitcoin
 | repo | desc |
 | --- | --- |
@@ -91,6 +107,7 @@ A short overview of all my repositores:
 | [ancient](https://github.com/nlitsme/ancient)  | various ancient documents |
 
 # the rest
+
 | repo | desc |
 | --- | --- |
 | [gnubc](https://github.com/nlitsme/gnubc)  | Gnu bc calculator with some improvements |
@@ -104,10 +121,10 @@ A short overview of all my repositores:
 | [tsthtml2](https://github.com/nlitsme/tsthtml2)  | None |
 | [uselection2020](https://github.com/nlitsme/uselection2020)  | None |
 | [vimdecrypt](https://github.com/nlitsme/vimdecrypt)  | Python tool for decrypting vim encrypted files. |
-| [whatsapptools](https://github.com/nlitsme/whatsapptools)  | A collection of python scripts i use for managing whatsapp chats from the commandline. |
 | [xpcap](https://github.com/nlitsme/xpcap)  | tool for analyzing packet capture dumps |
 | [xpcapperl](https://github.com/nlitsme/xpcapperl)  | perl script for making the output of `tcpdump -x` more readable |
 | [nlitsme](https://github.com/nlitsme/nlitsme)  | this page |
 | [nlitsme.github.io](https://github.com/nlitsme/nlitsme.github.io)  | my github.io page |
 | [EnergieLeveranciers](https://github.com/nlitsme/EnergieLeveranciers)  | Tools for getting data from some dutch energy providers |
-| [whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto)  | Changes in the whatsapp protocol as extracted from apk files |
+| [b3603](https://github.com/nlitsme/b3603)  | Updates for the b3603 firmware |
+
