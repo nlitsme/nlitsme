@@ -8,6 +8,7 @@ A short overview of all my repositores:
 | repo | desc |
 | --- | --- |
 | [riscv-isa-sim-titanM2](https://github.com/nlitsme/riscv-isa-sim-titanM2)  | Patches such that the SPIKE Risc-V simulator can run the Titan-M2 firmware.
+| [python-riscv-sim](https://github.com/nlitsme/python-riscv-sim) | A pure python RISC-V simulator
 
 
 # whatsapp
