@@ -32,7 +32,7 @@ A short overview of all my repositores:
 | --- | --- |
 | [cpputils](https://github.com/nlitsme/cpputils)  | various c++ utility classes |
 | [hexdumper](https://github.com/nlitsme/hexdumper)  | hexdumper tool i use for just about anything. |
-| [legacy-itsutils-library](https://github.com/nlitsme/legacy-itsutils-library)  | Part of the old itsutils library |
+| [legacy-itsutils-library](https://github.com/nlitsme/legacy-itslib-library)  | Part of the old itsutils library |
 
 # commandline toolbox
 | repo | desc |
@@ -84,6 +84,7 @@ A short overview of all my repositores:
 # ancient
 | repo | desc |
 | --- | --- |
+| [HACKTIC_demon_dialer](https://github.com/nlitsme/HACKTIC_demon_dialer)  | Original sourcecode for the HACKTIC demon dialer |
 | [MSDOS_demon_dialer_tool](https://github.com/nlitsme/MSDOS_demon_dialer_tool)  | A MSDOS Demon Dialer  phone scanning tool - for the museum |
 | [MSDOS_game_of_life](https://github.com/nlitsme/MSDOS_game_of_life)  | For the museum: a very old implementation of Conway's game of LIFE |
 | [MSDOS_interrupt_catcher](https://github.com/nlitsme/MSDOS_interrupt_catcher)  | A very old msdos interrupt tracing tool - for the museum |
@@ -106,5 +107,7 @@ A short overview of all my repositores:
 | [whatsapptools](https://github.com/nlitsme/whatsapptools)  | A collection of python scripts i use for managing whatsapp chats from the commandline. |
 | [xpcap](https://github.com/nlitsme/xpcap)  | tool for analyzing packet capture dumps |
 | [xpcapperl](https://github.com/nlitsme/xpcapperl)  | perl script for making the output of `tcpdump -x` more readable |
-| [nlitsme](https://github.com/nlitsme/nlitsme)  | None |
+| [nlitsme](https://github.com/nlitsme/nlitsme)  | this page |
 | [nlitsme.github.io](https://github.com/nlitsme/nlitsme.github.io)  | my github.io page |
+| [EnergieLeveranciers](https://github.com/nlitsme/EnergieLeveranciers)  | Tools for getting data from some dutch energy providers |
+| [whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto)  | Changes in the whatsapp protocol as extracted from apk files |
