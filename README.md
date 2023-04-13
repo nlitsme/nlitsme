@@ -87,6 +87,9 @@ A short overview of all my repositores:
 | [wikiexport](https://github.com/nlitsme/wikiexport)  | Tool for downloading the contents of a mediawiki site |
 | [pleskfilemanager](https://github.com/nlitsme/pleskfilemanager)  | python script for managing files on a plesk server from the commandline |
 | [magister-tool](https://github.com/nlitsme/magister-tool)  | Tool for getting information from the magister school server |
+| [4chan-tool](https://github.com/nlitsme/4chantool)  | Tool for scraping / searching 4chan forums |
+| [twitter-tool](https://github.com/nlitsme/twittertool)  | Tool for scraping tweets |
+
 
 
 # ida
