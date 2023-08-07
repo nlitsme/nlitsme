@@ -18,7 +18,7 @@ A short overview of all my repositores:
 | [whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto)  | Changes in the whatsapp protocol as extracted from apk files |
 | [whatsapptools](https://github.com/nlitsme/whatsapptools)  | A collection of python scripts i use for managing whatsapp chats from the commandline. |
 | [whatsmeow](https://github.com/nlitsme/whatsmeow)  | My changes to the whatsmeow project |
-
+| [codehistory](https://github.com/nlitsme/whatsapp-web-code-history)  | Archive of all versions of web.whatsapp.com
 
 # bitcoin
 | repo | desc |
