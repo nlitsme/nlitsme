@@ -43,6 +43,8 @@ A short overview of all my repositores:
 | [SquashFSDumper](https://github.com/nlitsme/SquashFSDumper)  | tool for listing and extracting files from SQUASHFS images |
 | [encrypteddmg](https://github.com/nlitsme/encrypteddmg)  | Tool for analyzing and decrypting apple encrypted disk images |
 | [cronodump](https://github.com/alephdata/cronodump) | A Cronos database converter |
+| [ntfs_research_tool](https://github.com/nlitsme/ntfs_research_tool)     | Tool for investigating broken ntfs partitions.
+| [qualcomm-q6zip](https://github.com/nlitsme/qualcomm-q6zip)     | decompressor for qualcomm q6zip and delta compressed firmware sections
 
 # c++
 | repo | desc |
@@ -72,6 +74,7 @@ A short overview of all my repositores:
 | [mpmp19_solver](https://github.com/nlitsme/mpmp19_solver)  | None |
 | [mpmp7_solver](https://github.com/nlitsme/mpmp7_solver)  | Solving Matt Parker's Unique Distancing Puzzle |
 | [pointenumerator](https://github.com/nlitsme/pointenumerator)  | Several algorithms for enumerating points in an unbounded plane |
+
 
 # arduino / avr
 | repo | desc |
@@ -131,4 +134,8 @@ A short overview of all my repositores:
 | [nlitsme.github.io](https://github.com/nlitsme/nlitsme.github.io)  | my github.io page |
 | [EnergieLeveranciers](https://github.com/nlitsme/EnergieLeveranciers)  | Tools for getting data from some dutch energy providers |
 | [b3603](https://github.com/nlitsme/b3603)  | Updates for the b3603 firmware |
+| [bounchingdots](https://github.com/nlitsme/bouncingdots)  | Experiment with random bouncing dots in c++ and python, using Qt
+| [findlinks](https://github.com/nlitsme/findlinks)     | tool for extracting links for a set of html files
+| [oldmstools](https://github.com/nlitsme/oldmstools)     | win32 tools, originally from the  itsutils package.
+| [vandale2008reader](https://github.com/nlitsme/vandale2008reader)     | Decodes files from the 2008 edition of the vandale dictionary
 
